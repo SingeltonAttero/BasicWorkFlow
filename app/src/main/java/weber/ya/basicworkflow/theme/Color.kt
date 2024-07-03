@@ -1,4 +1,4 @@
-package weber.ya.basicworkflow.ui.theme
+package weber.ya.basicworkflow.theme
 
 import androidx.compose.ui.graphics.Color
 
